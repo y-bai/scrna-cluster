@@ -1,0 +1,21 @@
+{
+    "dat_root": "/tfs11/ST_MCHRI_BIGDATA/zhouruilong/data/scDualGN_yb",
+    "young": "clustering_data/Young.h5ad",
+    "baron": "clustering_data/Baron.h5ad",
+    "balasubramanian":"clustering_data/Balasubramanian.h5ad",
+    "kazer": "clustering_data/Kazer.h5ad",
+    "ren_scdualgn": "clustering_data/Ren_scDualGN_input.h5ad",
+    "reyes": "clustering_data/Reyes.h5ad",
+    "stephenson": "clustering_data/Stephenson.h5ad",
+    "wu": "clustering_data/Wu.h5ad",
+    
+    "dataset4":"batch_effect_data/dataset4.h5ad",
+    "dataset5":"batch_effect_data/dataset5.h5ad",
+    "hca":"batch_effect_data/HCA.h5ad",
+    
+    "human_esc_bulk": "imputation_data/Human_ESC_Bulk.h5ad",
+    "human_esc_raw": "imputation_data/Human_ESC_Raw.h5ad",
+    "human_esc_raw_time":"imputation_data/Human_ESC_Raw_time.h5ad",
+
+    "res_save_dic": "/jdfssz1/ST_HEALTH/P18Z10200N0124/AI/user/baiyong/projects/results/scDualGN"
+}
